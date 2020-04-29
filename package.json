@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express-session": "^1.17.0",
+    "md5": "^2.2.1"
+  }
+}
